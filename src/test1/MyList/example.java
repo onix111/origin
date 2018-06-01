@@ -53,7 +53,3 @@ class Container {
         }
     }
 }
-
-public class example {
-    
-}
